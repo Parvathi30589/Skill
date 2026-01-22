@@ -1,1 +1,2 @@
 Git version control lab.
+Feature update: added new project functionality.
